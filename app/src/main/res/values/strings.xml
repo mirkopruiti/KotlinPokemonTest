@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Pokemon Test</string>
+    <string name="BASE_URL">https://</string>
+</resources>
