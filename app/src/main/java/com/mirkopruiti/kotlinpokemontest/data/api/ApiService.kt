@@ -2,7 +2,6 @@ package com.mirkopruiti.kotlinpokemontest.data.api
 
 import com.mirkopruiti.kotlinpokemontest.data.model.PokemonInfo
 import com.mirkopruiti.kotlinpokemontest.data.model.PokemonResponse
-import com.skydoves.sandwich.ApiResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

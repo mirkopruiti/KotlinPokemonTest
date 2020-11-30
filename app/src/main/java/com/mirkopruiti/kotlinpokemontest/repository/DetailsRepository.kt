@@ -4,8 +4,6 @@ import android.content.Context
 import com.mirkopruiti.kotlinpokemontest.data.api.ApiCall
 import com.mirkopruiti.kotlinpokemontest.data.db.PokemonDao
 import com.mirkopruiti.kotlinpokemontest.util.NetworkUtil
-import com.skydoves.sandwich.suspendOnSuccess
-import com.skydoves.whatif.whatIfNotNull
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.flowOn

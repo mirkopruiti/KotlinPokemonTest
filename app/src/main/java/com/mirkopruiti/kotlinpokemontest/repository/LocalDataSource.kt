@@ -2,7 +2,6 @@ package com.mirkopruiti.kotlinpokemontest.repository
 
 import androidx.paging.PagingSource
 import com.bumptech.glide.load.HttpException
-import com.mirkopruiti.kotlinpokemontest.data.api.ApiCall
 import com.mirkopruiti.kotlinpokemontest.data.db.PokemonDao
 import com.mirkopruiti.kotlinpokemontest.data.model.Pokemon
 import java.io.IOException
